@@ -1,5 +1,3 @@
-for git testing purpose
-
 Noxim - the NoC Simulator
 =========================
 
